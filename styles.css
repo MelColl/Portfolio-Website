@@ -51,19 +51,24 @@ display: inline-block;
 }
 
 .figure-caption {
-	ont-size: 30px;
+	ont-size: 35px;
   	font-family: 'Sour Gummy';
   	color: #450a0a;
   	white-space: pre-wrap;
-  	display: inline-block;
+  	
 }
 
 .summary {
-	ont-size: 20px;
+	ont-size: 70px;
   	font-family: 'Emilys Candy';
-  	color: #450a0a;
+color: #9d2727;
   	white-space: pre-wrap;
 	text-align: center;
   	display: inline-block;
 
+}
+.summary { 
+	text-align: center;
+    display: block;
+    margin: 0 auto;
 }
