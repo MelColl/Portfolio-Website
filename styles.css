@@ -1,6 +1,6 @@
 .mel-collins {
-  	width: 576px;
-  	height: 132px;
+  	
+
   	position: relative;
   	font-size: 120px;
   	font-family: 'New Rocker';
@@ -12,5 +12,9 @@
     text-align: center;
     display: block;
     margin: 0 auto;
-    
+
+}
+.navbar-toggler {
+    color: #db9e9e;
+
 }
