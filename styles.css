@@ -51,7 +51,7 @@ display: inline-block;
 }
 
 .figure-caption {
-	font-size: 25px;
+	font-size: 21px;
   	font-family: 'Sour Gummy';
   	color: #450a0a;
   	white-space: pre-wrap;
@@ -72,6 +72,18 @@ color: #9d2727;
     display: block;
     margin: 0 auto;
 }
-.Declarations {
+.declarations {
+	font-size: 70px;
+  	font-family: 'Emilys Candy';
+color: #9d2727;
+  	white-space: pre-wrap;
+	text-align: center;
+  	display: inline-block;
 	
+}
+.declarations {
+	text-align: center;
+    display: block;
+    margin: 0 auto;
+
 }
