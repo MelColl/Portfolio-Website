@@ -93,3 +93,14 @@ color: #9d2727;
 	text-align: left
 
 }
+.nav-link-active {
+	font-family: 'Griffy';
+  	color: #450a0a;
+	
+
+}
+.nav-home {
+	font-family: 'Griffy';
+  	color: #450a0a;
+	
+}
