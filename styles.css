@@ -8,4 +8,9 @@
   	text-align: left;
   	display: inline-block;
 }
-
+.mel-collins {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    
+}
