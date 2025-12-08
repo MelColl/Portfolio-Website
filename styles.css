@@ -15,18 +15,18 @@
 
 }
 .navbar {
-    background-color: #af3d3d;
+    background-color: #B63E3E;
 
 }
 body {
-    background-color:#db9e9e;
+    background-color:#d6a3a3;
 }
 
 .display-1 {
 position: relative;
 font-size: 100px;
 font-family: 'New Rocker';
-color: #b73f3f;
+color: #B63E3E;
 text-align: center;
 display: inline-block;
 }
@@ -35,7 +35,18 @@ display: inline-block;
 position: relative;
 font-size: 30px;
 font-family: 'Lilita One';
-color: #f4cece;
+color: #572c2c;
 text-align: left;
 display: inline-block;
 }
+
+.project-title {
+
+  	position: relative;
+  	font-size: 20px;
+  	font-family: 'Lilita One';
+  	color: #450a0a;
+  	white-space: pre-wrap;
+  	display: inline-block;
+}
+
