@@ -30,3 +30,12 @@ color: #b73f3f;
 text-align: center;
 display: inline-block;
 }
+.lead {
+	
+position: relative;
+font-size: 40px;
+font-family: 'Lilita One';
+color: #f4cece;
+text-align: left;
+display: inline-block;
+}
