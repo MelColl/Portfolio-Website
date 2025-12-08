@@ -3,7 +3,7 @@
 
   	position: relative;
   	font-size: 120px;
-  	font-family: 'New Rocker';
+  	font-family: 'Emilys Candy';
   	color: #450a0a;
   	text-align: left;
   	display: inline-block;
@@ -25,28 +25,45 @@ body {
 .display-1 {
 position: relative;
 font-size: 100px;
-font-family: 'New Rocker';
-color: #B63E3E;
+font-family: 'Emilys Candy';
+color: #9d2727;
 text-align: center;
-display: inline-block;
+
 }
 .lead {
 	
 position: relative;
 font-size: 30px;
-font-family: 'Lilita One';
+font-family: 'Sour Gummy';
 color: #572c2c;
-text-align: left;
+text-align: center;
 display: inline-block;
 }
 
 .project-title {
 
   	position: relative;
-  	font-size: 20px;
-  	font-family: 'Lilita One';
+  	font-size: 30px;
+  	font-family: 'Sour Gummy';
   	color: #450a0a;
   	white-space: pre-wrap;
   	display: inline-block;
 }
 
+.figure-caption {
+	ont-size: 30px;
+  	font-family: 'Sour Gummy';
+  	color: #450a0a;
+  	white-space: pre-wrap;
+  	display: inline-block;
+}
+
+.summary {
+	ont-size: 20px;
+  	font-family: 'Emilys Candy';
+  	color: #450a0a;
+  	white-space: pre-wrap;
+	text-align: center;
+  	display: inline-block;
+
+}
