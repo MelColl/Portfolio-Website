@@ -21,3 +21,14 @@
 body {
     background-color:#db9e9e;
 }
+
+.display-1 {
+    
+
+position: relative;
+font-size: 100px;
+font-family: 'New Rocker';
+color: #b73f3f;
+text-align: left;
+display: inline-block;
+}
